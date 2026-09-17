@@ -1,0 +1,6 @@
+{
+  "name": "Coti-CAFI",
+  "description": "Plataforma SaaS de gestión de cotizaciones automotrices Coti-CAFI con ingesta inteligente OCR y agente predictivo de demanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
